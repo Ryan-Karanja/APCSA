@@ -1,3 +1,4 @@
+//this is code called rocket and it prints a rocket ship
 import java.util.Scanner;
 public class rocket {
     public static void main(String[] args){
